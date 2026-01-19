@@ -11,6 +11,8 @@ GPG Installed: Ensure GPG is installed on your system and accessible via the com
 YubiKey Setup: Your YubiKey must be configured with GPG keys beforehand.
 Python Environment: Python 3.x should be installed.
 
+
+
 Notes:
 This script assumes you have already set up your YubiKey with GPG keys. If not, you can follow the official YubiKey documentation to configure it.
 You may need administrative privileges to access the YubiKey, depending on your system's configuration.
