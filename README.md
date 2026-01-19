@@ -6,6 +6,8 @@ If the YubiKey is detected, it prints the card status information.
 
 If not, it provides a warning or error message.
 
+
+
 ### Prerequisites:
 GPG Installed: Ensure GPG is installed on your system and accessible via the command line.
 YubiKey Setup: Your YubiKey must be configured with GPG keys beforehand.
